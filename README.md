@@ -5,7 +5,7 @@
 </p>
 
 ### 🌈 Github Stats:
-<img align="left" height='165px' src="https://github-readme-stats.vercel.app/api?username=jj19100&bg_color=10,65db9f,338ed1&title_color=fff&text_color=fff">
+<img align="left" height='165px' src="https://github-readme-stats.vercel.app/api?username=jj19100&bg_color=10,014872,D7EDE1&title_color=fff&text_color=fff">
 
 ## 🦘 Technology Stack
 
