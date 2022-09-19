@@ -12,14 +12,3 @@
 ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=vuedotjs)
 ![Vite](https://img.shields.io/badge/-Vite-%232C3A42?style=flat-square&logo=Vite)
 ![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint)
-<br>
-
-📚 [掘金](https://juejin.cn/user/3210229685691198)<br>
-力扣  [力扣🌲](https://leetcode.cn/u/vibrant-sammetus5)<br>
-
-<p>
-  <img align="right" src="https://count.getloli.com/get/@jj19100?theme=rule9">
-</p>
-
-<hr/>
-<p align='center'>外届的声音太嘈杂，听自己的内心就好了</p> 
